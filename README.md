@@ -1,4 +1,8 @@
 # My_Repo
+## for the project
+````
+mkfs.ext4
+````
 ````
 lsblk
 ````
